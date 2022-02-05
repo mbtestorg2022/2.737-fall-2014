@@ -11,14 +11,130 @@ Some of the problems in the laboratory assignments come from [Prof. Trumper's ar
 
 The class will use [LabVIEW](http://www.ni.com/labview/)—based control electronics, and it will be best if you have a running version of LabVIEW 2013 installed on Windows on your own laptop. We do not assume prior experience with LabVIEW, but you will need to learn it during the course. MIT students borrow an [NI myRIO unit](http://www.ni.com/myrio/) during the course.
 
-| WEEK # | TOPICS | LAB FILES |
-| --- | --- | --- |
-| 1–2 | Lab 0: Controls Review; Introduction to LabVIEW programming on the myRIO |  {{< br >}}{{< br >}} [Pre-lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0-pre) {{< br >}}{{< br >}} [Lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0) {{< br >}}{{< br >}} [Lab 0 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab0) {{< br >}}{{< br >}}  |
-| 2–3 | Lab 1: Real-time Control; Using the myRIO with LabVIEW to implement closed-loop control of an RC filter |  {{< br >}}{{< br >}} [Lab 1 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1) {{< br >}}{{< br >}} [Lab 1 Addendum (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1_addendum) {{< br >}}{{< br >}} [Lab 1 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab1_dsa) {{< br >}}{{< br >}}  |
-| 3–5 | Lab 2: Analog Feedback Systems |  {{< br >}}{{< br >}} [Lab 2 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab2) {{< br >}}{{< br >}} [Circuit Diagram (PDF)]({{< baseurl >}}/resources/mit2_737f14_circuit) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf) {{< br >}}{{< br >}}  |
-| 5–6 | Lab 3: Electronic Scale |  {{< br >}}{{< br >}} [Lab 3 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab3) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf) {{< br >}}{{< br >}} ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf) {{< br >}}{{< br >}}  |
-| 7–9 | Lab 4: AC-Driven and Demodulated Electronic Scale | [Lab 4 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab4) |
-| 9–11 | Lab 5: Brushless Motor Control | [Lab 5 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab5) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LAB FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1–2
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 0: Controls Review; Introduction to LabVIEW programming on the myRIO
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Pre-lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0-pre)
+
+[Lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0)
+
+[Lab 0 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab0)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–3
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 1: Real-time Control; Using the myRIO with LabVIEW to implement closed-loop control of an RC filter
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab 1 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1)
+
+[Lab 1 Addendum (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1_addendum)
+
+[Lab 1 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab1_dsa)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 2: Analog Feedback Systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab 2 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab2)
+
+[Circuit Diagram (PDF)]({{< baseurl >}}/resources/mit2_737f14_circuit)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–6
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 3: Electronic Scale
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Lab 3 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab3)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
+
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7–9
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 4: AC-Driven and Demodulated Electronic Scale
+{{< tdclose >}}
+{{< tdopen >}}
+[Lab 4 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9–11
+{{< tdclose >}}
+{{< tdopen >}}
+Lab 5: Brushless Motor Control
+{{< tdclose >}}
+{{< tdopen >}}
+[Lab 5 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab5)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Schedule
 
