@@ -81,9 +81,9 @@ Lab 2: Analog Feedback Systems
 
 [Circuit Diagram (PDF)]({{< baseurl >}}/resources/mit2_737f14_circuit)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
+[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
+[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
 
 
 {{< tdclose >}}
@@ -101,9 +101,9 @@ Lab 3: Electronic Scale
 
 [Lab 3 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab3)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
+[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
+[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
 
 
 {{< tdclose >}}
