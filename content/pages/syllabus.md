@@ -21,16 +21,16 @@ Prerequisites
 
 We assume that you have taken a course in frequency-domain based control system design. Examples include:
 
-*   [_2.14 Analysis and Design of Feedback Control Systems_](/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/)
-*   [_6.302 Feedback Systems_](/courses/6-302-feedback-systems-spring-2007/)
-*   [_16.06 Principles of Automatic Control_](/courses/16-06-principles-of-automatic-control-fall-2012/)
+*   [_2.14 Analysis and Design of Feedback Control Systems_](/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014)
+*   [_6.302 Feedback Systems_](/courses/6-302-feedback-systems-spring-2007)
+*   [_16.06 Principles of Automatic Control_](/courses/16-06-principles-of-automatic-control-fall-2012)
 
 Specifically, you need to be able to design control loops for performance and stability using concepts of loop shaping via lead / lag controllers. You should also know about root locus and Nyquist analyses.
 
 We also assume that you have a basic familiarity with electronic circuits and operational amplifiers. Either of these courses:
 
-*   [_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007/)
-*   [_6.071J Introduction to Electronics, Signals, and Measurement_](/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/)
+*   [_6.002 Circuits and Electronics_](/courses/6-002-circuits-and-electronics-spring-2007)
+*   [_6.071J Introduction to Electronics, Signals, and Measurement_](/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006)
 
 Laboratory Assignments
 ----------------------
